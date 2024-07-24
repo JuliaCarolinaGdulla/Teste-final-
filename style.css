@@ -1,0 +1,39 @@
+body {background-color: darkslategray;
+}
+h1 {text-align: center;
+    color: cadetblue;
+    border-style: inset;
+
+}
+h2 {text-align: center;
+    color: cadetblue;
+    border-style: inset;
+}
+h3 {text-align: center;
+color: cadetblue;
+border-style: inset;
+}
+h4 {text-align: center;
+color: cadetblue;
+border-style: inset;
+}
+#ima1 {width: 30%;
+border-width: 20px;
+border-style: double;
+border-color: cadetblue;
+margin-left: 33%;}
+#ima2 {width: 30%;
+border-width: 20px;
+border-style: double;
+border-color: cadetblue;
+margin-left: 33%;}
+#ima3 {width: 30%;
+border-width: 20px;
+border-style: double;
+border-color: cadetblue;
+margin-left: 33%;}
+#ima4 {width: 30%;
+border-width: 20px;
+border-style: double;
+border-color: cadetblue;
+margin-left: 33%;}
